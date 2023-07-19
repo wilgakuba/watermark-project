@@ -1,0 +1,12 @@
+{
+  "name": "watermark-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wilgakuba/watermark-project.git",
+  "author": "Jakub Wilga <wilga327@wp.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
